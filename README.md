@@ -46,7 +46,7 @@ This project demonstrates my ability to work across the full analytics pipeline 
 
 ## 🤖 Power BI Dashboard — Churn Prediction View
 
-![Churn Prediction Dashboard](churn-prediction-dashboard.png.png)
+![Churn Prediction Dashboard](churn-summary-dashboard.png.png)
 
 ### Prediction Features
 
